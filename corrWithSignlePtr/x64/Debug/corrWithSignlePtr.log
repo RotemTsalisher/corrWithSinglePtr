@@ -1,0 +1,7 @@
+﻿  corrWithOnePtr.c
+C:\Users\PC\source\repos\corrWithSignlePtr\corrWithSignlePtr\corrWithOnePtr.c(20,16): warning C4101: 'paddedMat': unreferenced local variable
+C:\Users\PC\source\repos\corrWithSignlePtr\corrWithSignlePtr\corrWithOnePtr.c(21,9): warning C4101: 'j': unreferenced local variable
+C:\Users\PC\source\repos\corrWithSignlePtr\corrWithSignlePtr\corrWithOnePtr.c(21,6): warning C4101: 'i': unreferenced local variable
+C:\Users\PC\source\repos\corrWithSignlePtr\corrWithSignlePtr\corrWithOnePtr.c(70,9): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\PC\source\repos\corrWithSignlePtr\corrWithSignlePtr\corrWithOnePtr.c(145,8): warning C4022: 'free': pointer mismatch for actual parameter 1
+  corrWithSignlePtr.vcxproj -> C:\Users\PC\source\repos\corrWithSignlePtr\x64\Debug\corrWithSignlePtr.exe
